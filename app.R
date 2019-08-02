@@ -7,6 +7,9 @@
 #    http://shiny.rstudio.com/
 #
 
+# App ---------------------------------------------------------------------
+
+
 library(shiny)
 
 # Define UI for application that draws a histogram
